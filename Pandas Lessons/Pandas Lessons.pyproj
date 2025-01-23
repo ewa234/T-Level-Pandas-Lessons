@@ -25,13 +25,20 @@
     <Compile Include="Guides\02_Dataframes.py" />
     <Compile Include="Pandas_Lessons.py" />
     <Compile Include="Questions\Q01_Looking at Data.py" />
+    <Compile Include="Questions\Q02_Summarising Data.py" />
+    <Compile Include="Questions\Task02_Flight Search.py" />
+    <Compile Include="Questions\Task01_Currency Converter.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Guides\" />
+    <Folder Include="Data\" />
     <Folder Include="Questions\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\currency.csv" />
+    <Content Include="Data\flights.csv" />
     <Content Include="Guides\03_Grouping.py" />
+    <Content Include="test.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
