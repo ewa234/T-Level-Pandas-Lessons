@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cf8c345c-38d0-4fd7-b81f-a43c49c49854</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Questions\Task01_Currency Converter.py</StartupFile>
+    <StartupFile>Questions\Task02_Flight Search.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
